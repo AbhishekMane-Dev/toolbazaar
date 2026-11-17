@@ -1,0 +1,20 @@
+{
+  "id": "./toolbazaar_multi_tool_hub.html",
+  "name": "ToolBazaar - Digital Utility Store",
+  "short_name": "ToolBazaar",
+  "description": "Free browser-based photo, PDF, video, audio, design, and developer utilities.",
+  "start_url": "./toolbazaar_multi_tool_hub.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./toolbazaar-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

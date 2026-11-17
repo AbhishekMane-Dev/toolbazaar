@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rushisnap.github.io/toolbazaar/sitemap.xml
